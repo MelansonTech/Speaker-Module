@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Speaker Module Rev 2.CSPcbDoc   12/27/2023  3:09:00 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : Speaker Module Rev 2-Plated.TXT
+ASCII Non-Plated RoundHoles File : Speaker Module Rev 2-NonPlated.TXT
+EIA File   : Speaker Module Rev 2.DRL
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.7112mm (28mil)         Round          7                28.04 mm (1.10 Inch)
+T2        1mm (39.37mil)           Round          6                12.70 mm (0.50 Inch)
+T3        3mm (118.11mil)          Round          2         NPTH   31.18 mm (1.23 Inch)
+T4        3.5mm (137.795mil)       Round          2         NPTH   20.00 mm (0.79 Inch)
+---------------------------------------------------------------------------
+Totals                                            17               91.92 mm (3.62 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

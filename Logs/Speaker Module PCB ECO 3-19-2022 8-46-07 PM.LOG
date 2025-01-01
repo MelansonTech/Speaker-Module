@@ -1,0 +1,68 @@
+Added Component: Designator=C1(Cap,0805)
+Added Component: Designator=C2(CAP, 0805, HD)
+Added Component: Designator=C3(Cap,0805)
+Added Component: Designator=C4(Cap,0805)
+Added Component: Designator=C5(Cap,0805)
+Added Component: Designator=C6(Cap, 1206)
+Added Component: Designator=FD1(FIDU-ROUND)
+Added Component: Designator=FD2(FIDU-ROUND)
+Added Component: Designator=FD3(FIDU-ROUND)
+Added Component: Designator=J1(Header, 6 pin, 0.1" Spaceing)
+Added Component: Designator=Logo1(Symbol,Open Source)
+Added Component: Designator=M1(Standoff,Hex,M3,8mm)
+Added Component: Designator=M2(Standoff,Hex,M3,8mm)
+Added Component: Designator=R1(res, 0805, HD)
+Added Component: Designator=R2(Res,1206)
+Added Component: Designator=R3(Res,1206)
+Added Component: Designator=R4(res, 0805, HD)
+Added Component: Designator=R5(res, 0805, HD)
+Added Component: Designator=Speaker1(Speaker,SMD,CMS-15113-076S)
+Added Component: Designator=U1(SOIC-8)
+Added Pin To Net: NetName=+5 Pin=C1-1
+Added Pin To Net: NetName=+5 Pin=C2-2
+Added Pin To Net: NetName=+5 Pin=C5-1
+Added Pin To Net: NetName=+5 Pin=C6-2
+Added Pin To Net: NetName=+5 Pin=J1-2
+Added Pin To Net: NetName=+5 Pin=R1-1
+Added Pin To Net: NetName=+5 Pin=U1-7
+Added Net: Name=+5
+Added Pin To Net: NetName=AUDIO_IN Pin=C4-1
+Added Pin To Net: NetName=AUDIO_IN Pin=J1-3
+Added Net: Name=AUDIO_IN
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-5
+Added Pin To Net: NetName=GND Pin=U1-6
+Added Net: Name=GND
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=U1-2
+Added Pin To Net: NetName=NetC3_1 Pin=U1-3
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=R4-2
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R3-1
+Added Pin To Net: NetName=NetR2_1 Pin=Speaker1-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_2 Pin=R3-2
+Added Pin To Net: NetName=NetR2_2 Pin=U1-8
+Added Net: Name=NetR2_2
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R5-2
+Added Pin To Net: NetName=NetR4_1 Pin=U1-4
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=Speaker1-2
+Added Pin To Net: NetName=NetR5_1 Pin=U1-5
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=S\D\ Pin=J1-6
+Added Pin To Net: NetName=S\D\ Pin=R1-2
+Added Pin To Net: NetName=S\D\ Pin=U1-1
+Added Net: Name=S\D\
+Added Class: Name=Speaker Module

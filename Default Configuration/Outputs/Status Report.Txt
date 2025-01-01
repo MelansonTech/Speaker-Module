@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 3:09:01 PM On 12/27/2023
+
+Output: ExportSTEP
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [Speaker Module Rev 2.CSPcbDoc]
+   Generated File[Speaker Module Rev 2.step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 3:09:05 PM On 12/27/2023

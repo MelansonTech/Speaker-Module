@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=GND Pin=U1-6
+Removed Pin From Net: NetName=+5 Pin=U1-7
+Change Component DesignItemId : Designator=R5 Old DesignItemId=Res,0805,22.1K,1%,100ppm,RC0805FR-0722K1L New DesignItemId=Res,0805,47.5KO,1%,100ppm,RK73H2ATTD4752F
+Change Component DesignItemId : Designator=Speaker1 Old DesignItemId=Speaker,SMD,6O,700mW,Magnetic,100 Hz ~ 20 kHz,CMS-15113-076S New DesignItemId=Speaker,SMD,6O,700mW,Magnetic,100 Hz ~ 20 kHz,CMS-15113-076S
+Change Component Comment : Designator=R5 Old Comment=RC0805FR-0722K1L New Comment=RK73H2ATTD4752F
+Change Component Description : Designator=R5 Old Description=22.1 kOhms ±1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film New Description=47.5 kOhms ±1% 0.25W, 1/4W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200, Moisture Resistant Thick Film
+Added Pin To Net: NetName=+5 Pin=U1-6
+Added Pin To Net: NetName=GND Pin=U1-7
+Change Class Name : Old Net Name=Speaker Module New Net Name=Speaker Module Rev 2
